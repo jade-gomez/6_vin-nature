@@ -12,3 +12,8 @@ img,
 video {
   display: block;
 }
+@font-face {
+  font-family: "Molang";
+  src: url("../font/SwistblnkMoalangMelintang.woff") format("woff"),
+    url("../font/SwistblnkMoalangMelintang.woff2") format("woff2");
+}
